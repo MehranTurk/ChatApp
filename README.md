@@ -6,7 +6,7 @@ The server script (server.py) sets up a TCP/IP socket server that listens for in
 The client script (client.py) is a graphical user interface (GUI) application implemented using the tkinter library. It prompts the user to enter a username and connects to the server upon confirmation. Once connected, the client can send messages to the server, which are then broadcasted to all other connected clients. Messages received from other clients are displayed in a scrolled text box, with usernames colored green for better visibility.
 ## How to Run
 - Clone the repository:
-- git clone https://github.com/your-username/chat-application.git
+- git clone https://github.com/MehranTurk/ChatApp
 - Navigate to the repository directory:
 - cd ChatApp
 - Start the server by running:
